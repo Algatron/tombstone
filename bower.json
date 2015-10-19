@@ -1,0 +1,21 @@
+{
+  "name": "cemetery",
+  "authors": [
+    "Brian McCavour <brian.mccavour@gmail.com>"
+  ],
+  "description": "Cemetery Plotting application",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
